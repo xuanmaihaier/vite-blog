@@ -1,5 +1,5 @@
 module.exports = {
-  base:"./docs/",
+  base:"./",
   title: 'Stride.blog',  // 设置网站标题
   description: 'Stride的博客',
   head:[
